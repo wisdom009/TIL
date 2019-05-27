@@ -19,8 +19,13 @@ mkdir 폴더이름
 cd 폴더이름
 
 echo "# til" >> README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/wisdom009/til.git
+
 git push -u origin master
