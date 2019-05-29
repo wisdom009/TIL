@@ -31,4 +31,5 @@ mkdir / touch  이 두 언어는 파일을 생성시킨다
 
 cp 파일을 복사한다
 
+alias  = 바로가기 지정   alias c=clear   #바로가기 지정   c 는 clear(청소)  ***   
 
