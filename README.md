@@ -36,4 +36,4 @@ git remote rm origin ## 익시트 에러가 나올시 rm으로 기록을 지워�
 
 git pull #이전 기록을 불러온다
 
-git push -u origin master  # 다시 
+git push -u origin master  # 다시 최신화
