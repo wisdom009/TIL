@@ -1,10 +1,4 @@
-# 빅데이터  
-
-##  https://ftp.harukasan.org/CRAN/  R
-
-## https://www.rstudio.com/products/rstudio/download/#download R스튜디오
-
-## https://github.com/naver/d2codingfont/releases/tag/VER1.3.2   D2코딩 클꼴
+### TIL git에 업로드 하는법
 
 git config name.user "~~"
 
@@ -28,3 +22,16 @@ git remote add origin https://github.com/wisdom009/til.git
 
 git push -u origin master
 
+여기까진 처음 올렷을때
+
+## git init
+
+git add README.md
+
+git commit -m "소개문"
+
+git remote add origin  주소
+
+git remote rm origin ## 익시트 에러가 나올시 rm으로 기록을 지워주고 다시 작성
+
+git push -u origin master
