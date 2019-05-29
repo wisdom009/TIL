@@ -18,7 +18,7 @@ git add README.md
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/wisdom009/til.git
+git remote add origin https://github.com/wisdom009/til.git     / https://github.com/wisdom009/R.git
 
 git push -u origin master
 
@@ -30,7 +30,7 @@ git add README.md
 
 git commit -m "소개문"
 
-git remote add origin  주소
+git remote add origin  https://github.com/wisdom009/til.git     / https://github.com/wisdom009/R.git
 
 git remote rm origin ## 익시트 에러가 나올시 rm으로 기록을 지워주고 다시 작성
 
