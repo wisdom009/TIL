@@ -26,7 +26,7 @@ git push -u origin master
 
 ## git init
 
-git add README.md
+git add .
 
 git commit -m "소개문"
 
