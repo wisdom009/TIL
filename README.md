@@ -24,7 +24,6 @@ git push -u origin master
 
 여기까진 처음 올렷을때
 
-## git init
 
 git add .
 
