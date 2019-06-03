@@ -33,7 +33,7 @@ git push   # 다시 최신화
 
 #------------------------------------------------------------------------
 
-git remote add originhttps://github.com/wisdom009/R_Data.git
+git remote add origin https://github.com/wisdom009/R_Data.git
 
 git remote rm origin ## 익시트 에러가 나올시 rm으로 기록을 지워주고 다시 작성
 
