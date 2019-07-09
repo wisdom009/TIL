@@ -2,7 +2,12 @@
 
 git config name.user "~~"
 
+git config --global name.user "wisdom009"
+
 git config name.email "~~"
+
+git config --global name.email "hangul1115@naver.com"
+
 
 d:
 
