@@ -48,3 +48,6 @@ git pull #이전 기록을 불러온다
 git push -u origin master  / (OR) /  git push   # 다시 최신화
 
 파이썬  아나콘다 윈도우 3.7.3
+
+
+# URL 리퀘스트 오류가나면 제어판 사용자 계정  window 자격증명에서 가장 하단에 일반자격증명을 확인 후 제거 꼬는 
