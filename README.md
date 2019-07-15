@@ -8,6 +8,7 @@ git config name.email "~~"
 
 git config --global name.email "hangul1115@naver.com"
 
+git branch -v wisdom009
 
 d:
 
