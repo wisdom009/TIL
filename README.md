@@ -25,7 +25,7 @@ git add README.md
 git commit -m "first commit"
 
 git remote add origin https://github.com/wisdom009/R.git
-git remote add origin https://github.com/wisdom009/R.git
+git remote add origin https://github.com/wisdom009/r_state.git
 
 git push -u origin master
 
